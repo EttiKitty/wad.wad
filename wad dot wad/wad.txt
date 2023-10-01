@@ -1,0 +1,74 @@
+=================================================================================
+Archive Maintainer      : (special instructions if any)
+Update to               : (original filename if updating an existing file)
+Primary purpose         : Single play
+=================================================================================
+Title                   : (title of your masterpiece) \\ I'm not good with names
+Filename                : wad.WAD
+Release date            : August 27th, 2023
+Author                  : Noodlenoggin
+Email Address           : ettispaghetti95@gmail.com
+Other Files By Author   : N/A
+Misc. Author Info       : 
+
+Description             : You play as an original character I own named Esteretti
+			  or Etti for short. You and your own group find out
+			  something odd and unorthadox about about another group,
+			  so you go out to investagate.
+
+Additional Credits to   : The "Etti Toe Fan Club" for brainstorming ideas
+			  the name is an inside joke
+=================================================================================
+* What is included *
+
+New levels              : 7
+Sounds                  : Not yet*
+Music                   : Yes*
+Graphics                : Yes
+Dehacked      		: Yes
+Demos                   : Unedited
+Other                   : No
+
+*some are replaced by ones from other DOOM games
+
+* Play Information *
+
+Game                    : DOOM2
+Map #                   : MapXX
+Single Player           : Designed for
+Cooperative 2-4 Player  : Player starts only
+Deathmatch 2-4 Player   : Player starts only
+Other game styles       : No
+Difficulty Settings     : Yes
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : I have no clue
+Editor used             : Doom Builder X - 2021.1
+Known Bugs              : N/A, but please tell me of any via email!
+May Not Run With        : Haven't tested with anything else
+Tested With             : PrBoom+ - 262-w32
+=================================================================================
+* Copyright / Permissions *
+
+Authors may NOT use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original
+authors for any of their resources modified or included in this file.
+
+
+
+You MAY distribute this file, provided you include this text
+file, with no modifications.  You may distribute this file in any
+electronic format (BBS, Diskette, CD, etc) as long as you include
+this file intact.  I have received permission from the original
+authors of any modified or included content in this file to allow
+further distribution.
+
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites:
+FTP sites:
+=================================================================================

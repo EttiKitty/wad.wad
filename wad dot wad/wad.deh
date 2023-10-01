@@ -1,0 +1,246 @@
+Patch File for DeHackEd v3.0
+# Created with WhackEd4 1.2.4 BETA
+# Note: Use the pound sign ('#') to start comment lines.
+
+Doom version = 19
+Patch format = 6
+
+
+Thing 1 (Player)
+Exploding frame = 0
+
+Thing 19 (Lost Soul)
+Hit points = 25
+Reaction time = 1
+Mass = 1
+
+Thing 23 (Pain Elemental)
+Bits = AMBUSH+NOGRAVITY+SOLID+FLOAT+SHOOTABLE
+Respawn frame = 0
+
+Thing 44 (Blue armor)
+
+Thing 45 (Green armor)
+
+Thing 75 (Ripper)
+
+Thing 85 (Ceiling grey stub)
+Bits = NOGRAVITY+SPAWNCEILING
+
+Thing 86 (Ceiling brown stub)
+Bits = NOGRAVITY+SPAWNCEILING
+
+Thing 87 (Grey stub)
+Initial frame = 887
+
+Thing 113 (Dead SS Officer)
+Initial frame = 748
+
+Frame 5
+Duration = 3
+
+Frame 6
+Duration = 3
+
+Frame 7
+Duration = 6
+
+Frame 8
+Duration = 3
+
+Frame 9
+Duration = 3
+
+Frame 13
+Duration = 2
+
+Frame 14
+Duration = 5
+
+Frame 15
+Duration = 5
+
+Frame 16
+Sprite subnumber = 3
+
+Frame 17
+Duration = 5
+
+Frame 46
+Sprite subnumber = 9
+
+Frame 47
+Duration = 4
+
+Frame 48
+Duration = 3
+
+Frame 67
+Sprite subnumber = 0
+
+Frame 68
+Sprite subnumber = 1
+
+Frame 69
+Sprite subnumber = 3
+
+Frame 71
+Sprite subnumber = 3
+
+Frame 72
+Sprite subnumber = 2
+
+Frame 73
+Sprite subnumber = 3
+
+Frame 78
+Duration = 10
+
+Frame 84
+Sprite subnumber = 1
+
+Frame 86
+Sprite subnumber = 2
+
+Frame 87
+Sprite subnumber = 2
+
+Frame 88
+Duration = 10
+
+Frame 187
+Duration = 4
+
+Frame 188
+Duration = 4
+
+Frame 189
+Duration = 8
+
+Frame 190
+Duration = 7
+
+Frame 191
+Duration = 7
+
+Frame 192
+Duration = 6
+
+Frame 417
+Duration = 5
+
+Frame 418
+Sprite subnumber = 32774
+Duration = 6
+
+Frame 420
+Sprite subnumber = 7
+
+Frame 421
+Sprite subnumber = 7
+
+Frame 427
+Duration = -1
+Next frame = 0
+
+Frame 428
+Sprite subnumber = 14
+Duration = 5
+Next frame = 429
+
+Frame 429
+Sprite subnumber = 15
+
+Frame 430
+Sprite subnumber = 16
+
+Frame 431
+Sprite subnumber = 17
+
+Frame 432
+Sprite subnumber = 18
+
+Frame 433
+Sprite subnumber = 19
+
+Frame 434
+Sprite subnumber = 20
+Duration = 5
+Next frame = 435
+
+Frame 435
+Sprite subnumber = 21
+Duration = -1
+Next frame = 0
+
+Frame 803
+Sprite subnumber = 32768
+
+Frame 805
+Sprite subnumber = 32768
+
+Frame 888
+Duration = 25
+
+Frame 889
+Sprite subnumber = 2
+Duration = 8
+
+Frame 890
+Sprite subnumber = 1
+Duration = 6
+Next frame = 888
+
+Frame 891
+Duration = -1
+Next frame = 0
+
+Frame 909
+Sprite number = 95
+Sprite subnumber = 1
+
+Frame 910
+Sprite number = 107
+Sprite subnumber = 1
+
+Ammo 0 (Bullets)
+Max ammo = 300
+
+Ammo 2 (Cells)
+Max ammo = 350
+Per ammo = 25
+
+Misc 0
+Monsters Infight = 221
+Initial Bullets = 45
+
+[PARS]
+par 1 35
+par 2 60
+par 3 90
+
+[STRINGS]
+GOTARMOR = Picked up some armor.
+GOTMEGA = Picked up an armor set!
+GOTARMBONUS = Picked up some armor shards.
+GOTMEDINEED = Picked up a medikit that you REALLY needed!
+GOTSUIT = Radiation Shielding Boots
+GOTCLIP = Picked up some bullets.
+GOTCELL = Picked up a small potion of Mana.
+GOTCELLBOX = Picked up a large potion of Mana.
+GOTSHELLS = Picked up some shotgun shells.
+GOTBFG9000 = You learned the BFE!!! Ooh yes.
+GOTCHAINGUN = You got the chaingun enhancement!
+GOTCHAINSAW = A Ripper! Find some fresh meat!
+GOTLAUNCHER = You got the rocket launcher enhancement!
+GOTPLASMA = You learned an ice spell!
+GOTSHOTGUN = You took a shotgun!
+GOTSHOTGUN2 = You took a super shotgun!!
+HUSTR_1 = MAP 01: APERTURE
+HUSTR_2 = MAP 02: GENESIS
+HUSTR_3 = MAP 03: RIVER HIDEOUT
+HUSTR_4 = MAP 04: MULTI-LAYERED
+HUSTR_5 = MAP 05: NESTED LAB
+HUSTR_7 = MAP 07: A TRICKY TRAP
+C1TEXT = After shooting up multiple bases and \nfinding out what this certain group\nhas been doing, they all know that\nthey need to stop you before anything\ngets revealed. So they throw you into\nan arena and hope you don't survive.\n\nBut in doing so, reveal something...\nsinister. What they've done is very \nunclear, but seems to be robotically \nenhancing former animals.\n\nWhatever's behind this can not be human.
+CC_HERO = OUR HERO, ESTERETTI
