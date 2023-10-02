@@ -15,7 +15,7 @@ Reaction time = 1
 Mass = 1
 
 Thing 23 (Pain Elemental)
-Bits = AMBUSH+NOGRAVITY+SOLID+FLOAT+SHOOTABLE
+Bits = SHOOTABLE+FLOAT+AMBUSH+NOGRAVITY+SOLID
 Respawn frame = 0
 
 Thing 44 (Blue armor)
@@ -25,10 +25,10 @@ Thing 45 (Green armor)
 Thing 75 (Ripper)
 
 Thing 85 (Ceiling grey stub)
-Bits = NOGRAVITY+SPAWNCEILING
+Bits = SPAWNCEILING+NOGRAVITY
 
 Thing 86 (Ceiling brown stub)
-Bits = NOGRAVITY+SPAWNCEILING
+Bits = SPAWNCEILING+NOGRAVITY
 
 Thing 87 (Grey stub)
 Initial frame = 887
@@ -238,9 +238,10 @@ GOTSHOTGUN = You took a shotgun!
 GOTSHOTGUN2 = You took a super shotgun!!
 HUSTR_1 = MAP 01: APERTURE
 HUSTR_2 = MAP 02: GENESIS
-HUSTR_3 = MAP 03: RIVER HIDEOUT
+HUSTR_3 = MAP 03: RIVER BASE
 HUSTR_4 = MAP 04: MULTI-LAYERED
 HUSTR_5 = MAP 05: NESTED LAB
-HUSTR_7 = MAP 07: A TRICKY TRAP
-C1TEXT = After shooting up multiple bases and \nfinding out what this certain group\nhas been doing, they all know that\nthey need to stop you before anything\ngets revealed. So they throw you into\nan arena and hope you don't survive.\n\nBut in doing so, reveal something...\nsinister. What they've done is very \nunclear, but seems to be robotically \nenhancing former animals.\n\nWhatever's behind this can not be human.
+HUSTR_6 = MAP 06: TRAINING TESTS
+HUSTR_7 = MAP 07: TRICKED 'N TRAPPED
+C1TEXT = After shooting up multiple bases and \nfinding out what ITCA has been doing,\nthey all know that they need to stop\nyou before anything gets revealed. \nSo they throw you into an arena and\nhope that you never make it out.\n\nBut in doing so, reveal something...\nsinister. What they've done is very \nunclear, but seems to be robotically \nenhancing former animals.\n\nWhatever's behind this can not be human.
 CC_HERO = OUR HERO, ESTERETTI
