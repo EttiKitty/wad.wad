@@ -9,17 +9,13 @@ Patch format = 6
 Thing 1 (Player)
 Exploding frame = 0
 
-Thing 11 (Chaingun Sargeant)
-Exploding frame = 428
-Respawn frame = 436
-
 Thing 19 (Lost Soul)
 Hit points = 25
 Reaction time = 1
 Mass = 1
 
 Thing 23 (Pain Elemental)
-Bits = SHOOTABLE+AMBUSH+NOGRAVITY+FLOAT+SOLID
+Bits = NOGRAVITY+AMBUSH+FLOAT+SHOOTABLE+SOLID
 Respawn frame = 0
 
 Thing 44 (Blue armor)
@@ -29,10 +25,10 @@ Thing 45 (Green armor)
 Thing 75 (Ripper)
 
 Thing 85 (Ceiling grey stub)
-Bits = SPAWNCEILING+NOGRAVITY
+Bits = NOGRAVITY+SPAWNCEILING
 
 Thing 86 (Ceiling brown stub)
-Bits = SPAWNCEILING+NOGRAVITY
+Bits = NOGRAVITY+SPAWNCEILING
 
 Thing 87 (Grey stub)
 Initial frame = 887
@@ -130,51 +126,22 @@ Duration = 7
 Frame 192
 Duration = 6
 
+Frame 416
+Sprite subnumber = 3
+
 Frame 417
-Sprite subnumber = 32774
+Sprite subnumber = 32772
 Duration = 7
 
 Frame 418
 Sprite subnumber = 32773
 Duration = 6
 
-Frame 420
-Sprite subnumber = 7
-
-Frame 421
-Sprite subnumber = 7
-
-Frame 427
-Duration = -1
-Next frame = 0
-
-Frame 428
-Duration = 5
-Next frame = 429
+Frame 419
+Sprite subnumber = 4
 
 Frame 434
-Duration = 5
 Next frame = 435
-
-Frame 435
-Sprite subnumber = 21
-Duration = -1
-Next frame = 0
-
-Frame 437
-Sprite subnumber = 12
-
-Frame 438
-Sprite subnumber = 11
-
-Frame 439
-Sprite subnumber = 10
-
-Frame 440
-Sprite subnumber = 9
-
-Frame 441
-Sprite subnumber = 8
 
 Frame 803
 Sprite subnumber = 32768
