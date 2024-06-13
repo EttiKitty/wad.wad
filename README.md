@@ -5,6 +5,9 @@ Since this is a monthly release and I don't want to hand out a pre-release,
 I find it easier to release it all on the first of the month.
 
 I will only not upload something to the latest release if it's very important
+
+From June to November, I will be taking a break with the monthly uploads.
+Because in the middle is August 27th, the day I made the mod on
 #   
 wad.wad is the name for this wad that I'm making.
 Originally a placeholder, now it's the actual name.
