@@ -1,13 +1,8 @@
 # wad.wad
-GO TO THE LATEST RELEASE!!
 
-Since this is a monthly release and I don't want to hand out a pre-release,
-I find it easier to release it all on the first of the month.
+__This project is *indefinitely* put on hold, I will *NOT* be releasing anything on its anniversary__
 
-I will only not upload something to the latest release if it's very important
-
-From June to November, I will be taking a break with the monthly uploads.
-Because in the middle is August 27th, the day I made the mod on
+I haven't had much of any motivation to do anything else to the mod
 #   
 wad.wad is the name for this wad that I'm making.
 Originally a placeholder, now it's the actual name.
